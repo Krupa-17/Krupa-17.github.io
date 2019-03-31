@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+}
+
+#firstH1 {
+  text-align: center;
+}
+
+#firstH2 {
+  text-align: center;
+}
+
+#background {
+  background-image: url("fotolia_brain_5615_3.jpg");
+  height: 300px;
+  color: white;
+  font-size: 3em;
+}
+form {
+  text-align: center;
+}
+.carousel-item {
+  img width="400" height="400"
+}
+
+#Disease {
+  color: blue;
+}
+
+#Company{
+  color: grey;
+}
+
+#data {
+  text-align: center;
+}
+
+#Contact {
+  text-align: center;
+}
+
+#info {
+  color: blue;
+}

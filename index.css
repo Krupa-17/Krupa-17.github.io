@@ -27,8 +27,18 @@ form {
   color: blue;
 }
 
+#Disease:hover {
+  font-size: 25px;
+  font-size-adjust: 20px;
+}
+
 #Company{
-  color: grey;
+  color: rgb(153,50,204);
+}
+
+#Company:hover {
+  font-size: 25px;
+  font-size-adjust: 20px;
 }
 
 #data {
@@ -40,5 +50,10 @@ form {
 }
 
 #info {
-  color: blue;
+  color: grey;
+}
+
+body {
+  background-color: rgb(102, 204, 255);
+  font-family:"Comic Sans";
 }
